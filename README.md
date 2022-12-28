@@ -20,7 +20,7 @@ Projeto para estudos de desenvolvimento web usando ReactJs e NextJs
 Para começar acesse o link abaixo e baixe o projeto na sua máquina:
 
 ```sh
-https://github.com/katiaschmitt/jovem-programador-react
+https://github.com/diegopollheim/jovem-programador-react
 ```
 </br>
 <img src="https://github.com/katiaschmitt/jovem-programador-react/blob/master/public/1.png" />
@@ -32,17 +32,17 @@ DICA: Para acessar a pasta no prompt de comando navege até a pasta que deseja a
 
 <i>Navegue até a pasta:</i>
 </br>
-<img src="https://github.com/katiaschmitt/jovem-programador-react/blob/master/public/2.png" />
+<img src="https://github.com/diegopollheim/jovem-programador-react/blob/master/public/2.png" />
 
 
 <i>Digitando 'cmd' na barra de endereço:</i>
 </br>
-<img src="https://github.com/katiaschmitt/jovem-programador-react/blob/master/public/3.png" />
+<img src="https://github.com/diegopollheim/jovem-programador-react/blob/master/public/3.png" />
 
 
 <i>Prompt aberto na pasta desejada:</i>
 </br>
-<img src="https://github.com/katiaschmitt/jovem-programador-react/blob/master/public/4.png" />
+<img src="https://github.com/diegopollheim/jovem-programador-react/blob/master/public/4.png" />
 
 
 ## Instalar dependências
@@ -66,4 +66,4 @@ npm run dev
 Se não ocorrer nenhum erro, a aplicação iniciará e será mostrado no console o link para acessar no seu navegador
 
 
-<img src="https://github.com/katiaschmitt/jovem-programador-react/blob/master/public/log-start.png" />
+<img src="https://github.com/diegopollheim/jovem-programador-react/blob/master/public/log-start.png" />
